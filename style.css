@@ -1,14 +1,18 @@
 
-
+body{
+   
+}
 .background{
     height: 100px;
     background-color: blue;
-
+    background-image: url(img/pattern.png);
     
 }
 .background img{
-    background-size: cover;
-}
+    width: 110px;
+    margin-top: 60px;
+    margin-left: 5px;
+}   
 
 .titolo{
     font-size: 30px;
@@ -23,3 +27,12 @@
     font-size: 9px;
     
 }  
+main{
+    margin-top: 10px;
+}
+.tim1{
+    width: 700px;
+}
+.tim2{
+    width: 600px;
+}

@@ -1,0 +1,25 @@
+
+
+.background{
+    height: 100px;
+    background-color: blue;
+
+    
+}
+.background img{
+    background-size: cover;
+}
+
+.titolo{
+    font-size: 30px;
+}
+.grey, .data{
+    color: grey;
+}
+.blu{
+   color: cyan;
+}
+.data{
+    font-size: 9px;
+    
+}  
